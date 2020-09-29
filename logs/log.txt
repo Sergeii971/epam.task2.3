@@ -1,0 +1,71 @@
+29.09.2020 12:50:52 [main] INFO  com.verbovskiy.task3.reader.DataReader - file was successfully read!
+29.09.2020 12:50:52 [Thread-0] INFO  com.verbovskiy.task3.entity.state.impl.ArrivingState - Ship ship1 is in Port, Berth 1
+29.09.2020 12:50:52 [Thread-0] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 1
+29.09.2020 12:50:52 [Thread-0] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 2
+29.09.2020 12:50:52 [Thread-0] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 3
+29.09.2020 12:50:52 [Thread-0] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 4
+29.09.2020 12:50:52 [Thread-0] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 5
+29.09.2020 12:50:52 [Thread-0] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 4
+29.09.2020 12:50:52 [Thread-0] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 3
+29.09.2020 12:50:52 [Thread-0] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 2
+29.09.2020 12:50:52 [Thread-0] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 1
+29.09.2020 12:50:52 [Thread-0] INFO  com.verbovskiy.task3.entity.state.impl.DepartingState - Ship ship1 left Port from the Berth 1
+29.09.2020 12:50:52 [Thread-1] INFO  com.verbovskiy.task3.entity.state.impl.ArrivingState - Ship ship2 is in Port, Berth 2
+29.09.2020 12:50:52 [Thread-1] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 2
+29.09.2020 12:50:52 [Thread-1] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 1
+29.09.2020 12:50:52 [Thread-1] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 0
+29.09.2020 12:50:52 [Thread-1] INFO  com.verbovskiy.task3.entity.Storage - storage is empty
+29.09.2020 12:50:52 [Thread-1] INFO  com.verbovskiy.task3.entity.state.impl.DepartingState - Ship ship2 left Port from the Berth 2
+29.09.2020 12:50:52 [Thread-2] INFO  com.verbovskiy.task3.entity.state.impl.ArrivingState - Ship ship3 is in Port, Berth 3
+29.09.2020 12:50:52 [Thread-2] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 1
+29.09.2020 12:50:52 [Thread-2] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 2
+29.09.2020 12:50:52 [Thread-2] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 3
+29.09.2020 12:50:52 [Thread-2] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 4
+29.09.2020 12:50:52 [Thread-2] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 5
+29.09.2020 12:50:52 [Thread-2] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 6
+29.09.2020 12:50:52 [Thread-2] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 7
+29.09.2020 12:50:52 [Thread-2] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 6
+29.09.2020 12:50:52 [Thread-2] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 5
+29.09.2020 12:50:52 [Thread-2] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 4
+29.09.2020 12:50:52 [Thread-2] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 3
+29.09.2020 12:50:52 [Thread-2] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 2
+29.09.2020 12:50:52 [Thread-2] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 1
+29.09.2020 12:50:52 [Thread-2] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 0
+29.09.2020 12:50:52 [Thread-2] INFO  com.verbovskiy.task3.entity.Storage - storage is empty
+29.09.2020 12:50:52 [Thread-2] INFO  com.verbovskiy.task3.entity.state.impl.DepartingState - Ship ship3 left Port from the Berth 3
+29.09.2020 12:50:52 [Thread-3] INFO  com.verbovskiy.task3.entity.state.impl.ArrivingState - Ship ship4 is in Port, Berth 4
+29.09.2020 12:50:52 [Thread-3] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 1
+29.09.2020 12:50:52 [Thread-3] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 2
+29.09.2020 12:50:52 [Thread-3] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 3
+29.09.2020 12:50:52 [Thread-3] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 2
+29.09.2020 12:50:52 [Thread-3] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 1
+29.09.2020 12:50:52 [Thread-3] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 0
+29.09.2020 12:50:52 [Thread-3] INFO  com.verbovskiy.task3.entity.Storage - storage is empty
+29.09.2020 12:50:52 [Thread-3] INFO  com.verbovskiy.task3.entity.state.impl.DepartingState - Ship ship4 left Port from the Berth 4
+29.09.2020 12:50:52 [Thread-4] INFO  com.verbovskiy.task3.entity.state.impl.ArrivingState - Ship ship5 is in Port, Berth 1
+29.09.2020 12:50:52 [Thread-4] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 1
+29.09.2020 12:50:52 [Thread-4] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 2
+29.09.2020 12:50:52 [Thread-4] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 1
+29.09.2020 12:50:52 [Thread-4] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 0
+29.09.2020 12:50:52 [Thread-4] INFO  com.verbovskiy.task3.entity.Storage - storage is empty
+29.09.2020 12:50:52 [Thread-4] INFO  com.verbovskiy.task3.entity.state.impl.DepartingState - Ship ship5 left Port from the Berth 1
+29.09.2020 12:50:52 [Thread-5] INFO  com.verbovskiy.task3.entity.state.impl.ArrivingState - Ship ship6 is in Port, Berth 2
+29.09.2020 12:50:52 [Thread-5] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 1
+29.09.2020 12:50:52 [Thread-5] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 0
+29.09.2020 12:50:52 [Thread-5] INFO  com.verbovskiy.task3.entity.Storage - storage is empty
+29.09.2020 12:50:52 [Thread-5] INFO  com.verbovskiy.task3.entity.state.impl.DepartingState - Ship ship6 left Port from the Berth 2
+29.09.2020 12:50:52 [Thread-6] INFO  com.verbovskiy.task3.entity.state.impl.ArrivingState - Ship ship7 is in Port, Berth 3
+29.09.2020 12:50:52 [Thread-6] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 1
+29.09.2020 12:50:52 [Thread-6] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 2
+29.09.2020 12:50:52 [Thread-6] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 3
+29.09.2020 12:50:52 [Thread-6] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 4
+29.09.2020 12:50:52 [Thread-6] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 5
+29.09.2020 12:50:52 [Thread-6] INFO  com.verbovskiy.task3.entity.Storage - Containers removed from ship, number of containers in storage - 6
+29.09.2020 12:50:52 [Thread-6] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 5
+29.09.2020 12:50:52 [Thread-6] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 4
+29.09.2020 12:50:52 [Thread-6] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 3
+29.09.2020 12:50:52 [Thread-6] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 2
+29.09.2020 12:50:52 [Thread-6] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 1
+29.09.2020 12:50:52 [Thread-6] INFO  com.verbovskiy.task3.entity.Storage - Containers added to ship, number of containers in storage - 0
+29.09.2020 12:50:52 [Thread-6] INFO  com.verbovskiy.task3.entity.Storage - storage is empty
+29.09.2020 12:50:52 [Thread-6] INFO  com.verbovskiy.task3.entity.state.impl.DepartingState - Ship ship7 left Port from the Berth 3

@@ -1,0 +1,7 @@
+ship1 5 4
+ship2 1 4
+ship3 7 7
+ship4 3 5
+ship5 2 6
+ship6 1 4
+ship7 6 8
